@@ -2,7 +2,7 @@
 
 <p>A <strong>uni-value grid</strong> is a grid where all the elements of it are equal.</p>
 
-<p>Return <em>the <strong>minimum</strong> number of operations to make the grid <strong>uni-value</strong></em>. If it is not possible, return <code>-1</code>.</p>
+<p>Return <em>the <strong>minimum</strong> number of operations to make the grid <strong>uni-value</strong></em>. If it is not possible, return <code>-1</code>.</p> 
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
