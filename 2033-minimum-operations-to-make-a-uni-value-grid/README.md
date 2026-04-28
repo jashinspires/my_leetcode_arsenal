@@ -43,13 +43,9 @@ A total of 4 operations were used.
 	<li><code>1 &lt;= m * n &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= x, grid[i][j] &lt;= 10<sup>4</sup></code></li>
 </ul>
-To make this feel like **your** story—the way you’d explain it to a peer or write it in your engineering journal—we need to drop the "textbook" headers. Let’s write it from the perspective of an engineer uncovering a mystery.
 
-Here is the README, written in your voice:
 
----
-
-# The Geometry of the Grid: How I Solved the Uni-Value Problem
+# The Geometry of the Grid: How I Solved this...
 
 When I first looked at this problem, I saw a grid and a "leap size" $x$. My task was to make every element equal using the minimum number of operations. But as I dove deeper, I realized this wasn't a grid problem at all—it was a problem about **synchronization** and **balance**.
 
@@ -150,11 +146,3 @@ public:
 * **Space:** $O(N)$ because I needed a separate array to perform the sort.
 
 ---
-
-### The Partner's Final Probe
-That README is a solid reflection of the logic we just built. Now, answer that "Even Median" question for me so you can truly walk away from this problem:
-
-If your sorted array is `[10, 20, 30, 100]` and $x=10$:
-1.  What is the total cost if you pick **20** as your median?
-2.  What is the total cost if you pick **30** as your median?
-3.  **Why** do they come out to be the same? (Think about the distance between 20 and 30).
