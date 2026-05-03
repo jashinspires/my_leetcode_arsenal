@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
+| [0796-rotate-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1929-concatenation-of-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
