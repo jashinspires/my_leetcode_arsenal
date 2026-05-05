@@ -83,4 +83,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0796-rotate-string) |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
