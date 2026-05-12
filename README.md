@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0048-rotate-image](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0217-contains-duplicate) |
@@ -79,6 +80,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
 | [0796-rotate-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0796-rotate-string) |
 ## Dynamic Programming
@@ -117,4 +119,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
