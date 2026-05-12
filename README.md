@@ -12,6 +12,7 @@
 | [0396-rotate-function](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0396-rotate-function) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1861-rotating-the-box](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1929-concatenation-of-array) |
@@ -67,6 +68,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0217-contains-duplicate) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -111,4 +113,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 <!---LeetCode Topics End-->
