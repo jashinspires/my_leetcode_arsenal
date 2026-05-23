@@ -20,6 +20,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1861-rotating-the-box](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1929-concatenation-of-array) |
