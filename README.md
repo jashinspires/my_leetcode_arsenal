@@ -15,6 +15,7 @@
 | [0238-product-of-array-except-self](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0238-product-of-array-except-self) |
 | [0396-rotate-function](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0396-rotate-function) |
 | [1306-jump-game-iii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -84,6 +85,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0217-contains-duplicate) |
+| [1340-jump-game-v](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2784-check-if-array-is-good](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
@@ -111,6 +113,7 @@
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0788-rotated-digits) |
+| [1340-jump-game-v](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/3225-maximum-score-from-grid-operations) |
 | [3660-jump-game-ix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3660-jump-game-ix/) | Medium |
