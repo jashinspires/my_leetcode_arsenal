@@ -101,6 +101,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -110,6 +111,7 @@
 | [0796-rotate-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0796-rotate-string) |
 | [1871-jump-game-vii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
