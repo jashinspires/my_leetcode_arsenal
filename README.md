@@ -28,6 +28,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
@@ -111,6 +112,7 @@
 | [0217-contains-duplicate](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0217-contains-duplicate) |
 | [1345-jump-game-iv](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
@@ -205,4 +207,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3161-block-placement-queries/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 <!---LeetCode Topics End-->
