@@ -44,6 +44,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3660-jump-game-ix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3660-jump-game-ix/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -179,6 +180,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
