@@ -1,68 +1,67 @@
 #include <vector>
-#include <queue>
-#include <algorithm>
+#include <numeric>
+#include <utility>
 
 using namespace std;
 
+auto init = []() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    return 0;
+}();
+
 class Solution {
 private:
-    int get_lca(int u, int v, const vector<int>& depth, const vector<vector<int>>& up) {
-        if (depth[u] < depth[v]) {
-            swap(u, v);
+    int n;
+    vector<vector<int>> g;
+    vector<vector<pair<int, int>>> q;
+    vector<int> lca_ans, deep, uf;
+    vector<bool> vis;
+
+    int find(int x) {
+        while (uf[x] != x) {
+            uf[x] = uf[uf[x]];
+            x = uf[x];
         }
-        int diff = depth[u] - depth[v];
-        for (int j = 17; j >= 0; --j) {
-            if ((diff >> j) & 1) {
-                u = up[u][j];
+        return x;
+    }
+
+    void tarjan(int u, int parent, int d) {
+        vis[u] = true;
+        deep[u] = d;
+        for (int v : g[u]) {
+            if (v == parent) continue;
+            tarjan(v, u, d + 1);
+            uf[v] = u;
+        }
+        for (auto [node, idx] : q[u]) {
+            if (vis[node]) {
+                lca_ans[idx] = find(node);
             }
         }
-        if (u == v) return u;
-        for (int j = 17; j >= 0; --j) {
-            if (up[u][j] != up[v][j]) {
-                u = up[u][j];
-                v = up[v][j];
-            }
-        }
-        return up[u][0];
     }
 
 public:
     vector<int> assignEdgeWeights(vector<vector<int>>& edges, vector<vector<int>>& queries) {
-        int n = edges.size() + 1;
-        vector<vector<int>> adj(n + 1);
-        for (const auto& edge : edges) {
-            adj[edge[0]].push_back(edge[1]);
-            adj[edge[1]].push_back(edge[0]);
+        n = edges.size() + 1;
+        g.assign(n + 1, {});
+        q.assign(n + 1, {});
+        lca_ans.assign(queries.size(), 0);
+        deep.assign(n + 1, 0);
+        uf.resize(n + 1);
+        iota(uf.begin(), uf.end(), 0);
+        vis.assign(n + 1, false);
+
+        for (auto& e : edges) {
+            g[e[0]].push_back(e[1]);
+            g[e[1]].push_back(e[0]);
+        }
+        for (int i = 0; i < (int)queries.size(); i++) {
+            q[queries[i][0]].emplace_back(queries[i][1], i);
+            q[queries[i][1]].emplace_back(queries[i][0], i);
         }
 
-        vector<int> depth(n + 1, 0);
-        vector<vector<int>> up(n + 1, vector<int>(18, 0));
-        vector<bool> visited(n + 1, false);
-
-        queue<int> q;
-        q.push(1);
-        visited[1] = true;
-        depth[1] = 0;
-        up[1][0] = 1;
-
-        while (!q.empty()) {
-            int u = q.front();
-            q.pop();
-            for (int v : adj[u]) {
-                if (!visited[v]) {
-                    visited[v] = true;
-                    depth[v] = depth[u] + 1;
-                    up[v][0] = u;
-                    q.push(v);
-                }
-            }
-        }
-
-        for (int j = 1; j < 18; ++j) {
-            for (int i = 1; i <= n; ++i) {
-                up[i][j] = up[up[i][j - 1]][j - 1];
-            }
-        }
+        tarjan(1, 0, 0);
 
         const int MOD = 1e9 + 7;
         vector<int> pow2(n + 1, 1);
@@ -70,20 +69,11 @@ public:
             pow2[i] = (pow2[i - 1] * 2) % MOD;
         }
 
-        vector<int> ans;
-        ans.reserve(queries.size());
-        for (const auto& query : queries) {
-            int u = query[0];
-            int v = query[1];
-            if (u == v) {
-                ans.push_back(0);
-            } else {
-                int lca = get_lca(u, v, depth, up);
-                int k = depth[u] + depth[v] - 2 * depth[lca];
-                ans.push_back(pow2[k - 1]);
-            }
+        vector<int> ans(queries.size());
+        for (int i = 0; i < (int)queries.size(); i++) {
+            int x = deep[queries[i][0]] + deep[queries[i][1]] - 2 * deep[lca_ans[i]];
+            ans[i] = (x == 0) ? 0 : pow2[x - 1];
         }
-
         return ans;
     }
 };
