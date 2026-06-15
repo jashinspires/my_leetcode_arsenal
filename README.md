@@ -169,12 +169,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [1861-rotating-the-box](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
