@@ -23,6 +23,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1861-rotating-the-box](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1914-cyclically-rotating-a-grid/) | Medium |
@@ -113,6 +114,7 @@
 | [0217-contains-duplicate](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0217-contains-duplicate) |
 | [1340-jump-game-v](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
@@ -200,6 +202,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -257,4 +260,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
