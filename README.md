@@ -107,6 +107,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -165,6 +166,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3660-jump-game-ix/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Simulation
