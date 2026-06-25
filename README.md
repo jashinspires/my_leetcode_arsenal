@@ -50,6 +50,7 @@
 | [3660-jump-game-ix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3660-jump-game-ix/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Prefix Sum
@@ -62,6 +63,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/3225-maximum-score-from-grid-operations) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +251,7 @@
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,4 +275,13 @@
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
