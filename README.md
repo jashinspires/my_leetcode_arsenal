@@ -39,6 +39,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3161-block-placement-queries](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3161-block-placement-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/3225-maximum-score-from-grid-operations) |
@@ -140,6 +141,7 @@
 | [2540-minimum-common-value](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -290,4 +292,8 @@
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 <!---LeetCode Topics End-->
