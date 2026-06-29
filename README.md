@@ -29,6 +29,7 @@
 | [1861-rotating-the-box](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -158,6 +159,7 @@
 | [0796-rotate-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1871-jump-game-vii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
