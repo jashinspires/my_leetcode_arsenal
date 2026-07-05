@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0238-product-of-array-except-self) |
 | [0396-rotate-function](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0396-rotate-function) |
+| [1301-number-of-paths-with-max-score](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
@@ -103,6 +104,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
@@ -184,6 +186,7 @@
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0788-rotated-digits) |
+| [1301-number-of-paths-with-max-score](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
