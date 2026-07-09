@@ -1,66 +1,40 @@
 class Solution {
 public:
-    static constexpr int MOD = 1000000007;
-
     vector<int> sumAndMultiply(string s, vector<vector<int>>& queries) {
-        int n = s.size();
+        int M = s.length();
+        long long MOD = 1e9 + 7;
 
-        vector<int> id(n, -1);
-        vector<int> dig;
-
-        for (int i = 0; i < n; i++) {
-            if (s[i] != '0') {
-                id[i] = dig.size();
-                dig.push_back(s[i] - '0');
+        vector<long long> pow10(M + 1, 1);
+        for (int i = 1; i <= M; i++) {
+            pow10[i] = (pow10[i - 1] * 10) % MOD;
+        }
+        
+        vector<int> digit_sum_prefix(M + 1, 0);
+        vector<int> count_prefix(M + 1, 0);
+        vector<long long> concat_prefix(M + 1, 0);
+        
+        for (int i = 1; i <= M; i++) {
+            int digit = s[i - 1] - '0';
+            digit_sum_prefix[i] = digit_sum_prefix[i - 1] + digit;
+            count_prefix[i] = count_prefix[i - 1] + (digit > 0 ? 1 : 0);
+            
+            if (digit > 0) {
+                concat_prefix[i] = (concat_prefix[i - 1] * 10 + digit) % MOD;
+            } else {
+                concat_prefix[i] = concat_prefix[i - 1];
             }
         }
-
-        int m = dig.size();
-
-        vector<long long> pw(m + 1, 1), preNum(m + 1, 0), preSum(m + 1, 0);
-
-        for (int i = 0; i < m; i++) {
-            pw[i + 1] = pw[i] * 10 % MOD;
-            preNum[i + 1] = (preNum[i] * 10 + dig[i]) % MOD;
-            preSum[i + 1] = preSum[i] + dig[i];
-        }
-
-        vector<int> nextNZ(n + 1, -1);
-        for (int i = n - 1; i >= 0; i--) {
-            if (s[i] != '0')
-                nextNZ[i] = i;
-            else
-                nextNZ[i] = nextNZ[i + 1];
-        }
-
-        vector<int> prevNZ(n, -1);
-        int last = -1;
-        for (int i = 0; i < n; i++) {
-            if (s[i] != '0') last = i;
-            prevNZ[i] = last;
-        }
-
+        
         vector<int> ans;
-
-        for (auto &q : queries) {
-            int l = nextNZ[q[0]];
-            int r = prevNZ[q[1]];
-
-            if (l == -1 || r == -1 || l > q[1] || r < q[0] || l > r) {
-                ans.push_back(0);
-                continue;
-            }
-
-            int L = id[l];
-            int R = id[r];
-
-            long long sum = preSum[R + 1] - preSum[L];
-            long long x = (preNum[R + 1] - preNum[L] * pw[R - L + 1]) % MOD;
-            if (x < 0) x += MOD;
-
-            ans.push_back(x * sum % MOD);
+        for (const auto& q : queries) {
+            int l = q[0], r = q[1];
+            int k = count_prefix[r + 1] - count_prefix[l];
+            int current_sum = digit_sum_prefix[r + 1] - digit_sum_prefix[l];
+            
+            long long x = (concat_prefix[r + 1] - (concat_prefix[l] * pow10[k]) % MOD + MOD) % MOD;
+            ans.push_back((x * current_sum) % MOD);
         }
-
+        
         return ans;
     }
 };
