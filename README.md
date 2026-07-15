@@ -139,6 +139,7 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -259,6 +260,7 @@
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
