@@ -34,6 +34,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -136,6 +137,7 @@
 | [0788-rotated-digits](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
@@ -267,6 +269,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
