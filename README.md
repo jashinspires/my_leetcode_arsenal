@@ -202,6 +202,7 @@
 | [0014-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
 | [0796-rotate-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
@@ -278,6 +279,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -351,6 +353,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -405,4 +408,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
