@@ -48,6 +48,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2965-find-missing-and-repeated-values/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3161-block-placement-queries](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3161-block-placement-queries/) | Hard |
@@ -128,6 +129,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2965-find-missing-and-repeated-values/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -141,6 +143,7 @@
 | [1840-maximum-building-height](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2965-find-missing-and-repeated-values/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -189,6 +192,7 @@
 | [2540-minimum-common-value](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2965-find-missing-and-repeated-values/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
