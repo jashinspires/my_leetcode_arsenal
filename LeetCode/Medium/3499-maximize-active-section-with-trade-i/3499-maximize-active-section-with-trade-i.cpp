@@ -1,44 +1,33 @@
 class Solution {
 public:
     int maxActiveSectionsAfterTrade(string s) {
-        int totalOnes = 0;
-
+        vector<pair<char, int>> runlength;
+        char current_char = s[0];
+        int lengthofseq = 0;
         for (char ch : s) {
-            if (ch == '1') {
-                totalOnes++;
-            }
-        }
-
-        string augmented = "1" + s + "1";
-
-        vector<pair<char, int>> groups;
-
-        for (char ch : augmented) {
-            if (groups.empty() || groups.back().first != ch) {
-                groups.push_back({ch, 1});
+            if (ch != current_char) {
+                runlength.push_back({current_char, lengthofseq});
+                current_char = ch;
+                lengthofseq = 1;
             } else {
-                groups.back().second++;
+                lengthofseq++;
             }
         }
-
-        int maximumGain = 0;
-        for (int i = 1; i + 1 < groups.size(); i++) {
-            bool isValidTrade =
-                groups[i - 1].first == '0' &&
-                groups[i].first == '1' &&
-                groups[i + 1].first == '0';
-
-            if (isValidTrade) {
-                int leftZeros = groups[i - 1].second;
-                int rightZeros = groups[i + 1].second;
-
-                maximumGain = max(
-                    maximumGain,
-                    leftZeros + rightZeros
-                );
+        runlength.push_back({current_char, lengthofseq});
+        int gain = 0;
+        int totalones = 0;
+        int rl = runlength.size();
+        for (const auto& p : runlength) {
+            if (p.first == '1') {
+                totalones += p.second;
             }
         }
-
-        return totalOnes + maximumGain;
+        for (int i = 1; i < rl - 1; i++) {
+            if (runlength[i].first == '1') {
+                int c = runlength[i - 1].second + runlength[i + 1].second;
+                gain = max(gain, c);
+            }
+        }
+        return gain + totalones;
     }
 };
