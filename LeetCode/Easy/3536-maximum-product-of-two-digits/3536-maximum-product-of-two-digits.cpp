@@ -2,12 +2,17 @@ class Solution {
 public:
     int maxProduct(int n) {
         string nums = to_string(n);
-        vector<int> vals;
-        for( auto ch: nums){
-            vals.push_back(ch -'0');
+        int max1 = 0, max2 = 0;
+        
+        for (char ch : nums) {
+            int val = ch - '0';
+            if (val > max1) {
+                max2 = max1;
+                max1 = val;
+            } else if (val > max2) {
+                max2 = val;
+            }
         }
-        sort(vals.begin(),vals.end());
-        int s = vals.size();
-        return vals[s-1]*vals[s-2];
+        return max1 * max2;
     }
 };
