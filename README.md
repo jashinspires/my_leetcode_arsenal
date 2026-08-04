@@ -16,6 +16,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0396-rotate-function](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -84,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
@@ -129,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [1260-shift-2d-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -459,4 +462,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 <!---LeetCode Topics End-->
