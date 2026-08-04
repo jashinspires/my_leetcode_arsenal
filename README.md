@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0027-remove-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
@@ -296,6 +297,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
