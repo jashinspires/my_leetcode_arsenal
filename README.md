@@ -180,6 +180,7 @@
 | [0075-sort-colors](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
@@ -205,6 +206,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
@@ -231,6 +233,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
