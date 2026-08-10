@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
@@ -319,6 +320,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
@@ -350,6 +352,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
