@@ -20,6 +20,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -189,6 +190,7 @@
 | [0088-merge-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -219,6 +221,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
@@ -432,6 +435,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
@@ -508,4 +512,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
