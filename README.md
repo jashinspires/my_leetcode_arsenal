@@ -25,6 +25,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0238-product-of-array-except-self) |
@@ -98,6 +99,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -395,6 +397,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [2540-minimum-common-value](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3161-block-placement-queries/) | Hard |
@@ -417,6 +420,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
