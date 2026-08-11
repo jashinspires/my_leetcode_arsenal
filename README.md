@@ -235,6 +235,7 @@
 | [0229-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0567-permutation-in-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
@@ -263,6 +264,7 @@
 | [0125-valid-palindrome](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0796-rotate-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -340,6 +342,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
+| [0567-permutation-in-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
@@ -414,6 +417,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0567-permutation-in-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 ## Binary Indexed Tree
