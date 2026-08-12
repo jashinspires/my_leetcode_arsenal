@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0304-range-sum-query-2d-immutable](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0396-rotate-function](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0396-rotate-function) |
@@ -432,6 +433,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -461,6 +463,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
@@ -564,4 +567,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
