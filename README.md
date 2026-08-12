@@ -275,6 +275,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
@@ -488,6 +489,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0682-baseball-game](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -593,4 +595,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
