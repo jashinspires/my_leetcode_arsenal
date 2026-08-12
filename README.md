@@ -40,6 +40,7 @@
 | [0658-find-k-closest-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
@@ -492,6 +493,7 @@
 | [0020-valid-parentheses](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0682-baseball-game](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Counting Sort
@@ -562,6 +564,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Design
 | Problem Name | Difficulty |
