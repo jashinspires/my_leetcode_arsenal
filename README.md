@@ -28,6 +28,7 @@
 | [0189-rotate-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
@@ -241,6 +242,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -436,6 +438,7 @@
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
