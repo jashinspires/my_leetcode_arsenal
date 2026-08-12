@@ -490,6 +490,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0225-implement-stack-using-queues](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0682-baseball-game](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -565,6 +566,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
@@ -586,6 +588,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
