@@ -237,6 +237,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0217-contains-duplicate) |
@@ -269,6 +270,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
@@ -432,6 +434,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
