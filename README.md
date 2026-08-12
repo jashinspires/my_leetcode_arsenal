@@ -33,6 +33,7 @@
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0396-rotate-function](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1260-shift-2d-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
@@ -206,6 +207,7 @@
 | [0242-valid-anagram](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
@@ -345,6 +347,7 @@
 | [0189-rotate-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0567-permutation-in-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
@@ -398,6 +401,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [2540-minimum-common-value](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3161-block-placement-queries/) | Hard |
@@ -422,6 +426,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 ## Binary Indexed Tree
@@ -450,6 +455,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
