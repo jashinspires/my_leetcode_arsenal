@@ -38,6 +38,7 @@
 | [0396-rotate-function](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
+| [0682-baseball-game](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
@@ -324,6 +325,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [1260-shift-2d-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [1929-concatenation-of-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1929-concatenation-of-array) |
@@ -486,6 +488,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0682-baseball-game](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Counting Sort
