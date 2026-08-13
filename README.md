@@ -176,6 +176,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0069-sqrtx](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0396-rotate-function](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
@@ -416,6 +417,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -608,4 +610,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
