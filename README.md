@@ -5,6 +5,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
@@ -412,6 +413,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -512,6 +514,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
