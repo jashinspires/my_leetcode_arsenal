@@ -1,8 +1,8 @@
 class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
-        set<int> stable_indexes;
         int s = nums.size();
+        int index = -1;
         for(int i = 0 ; i < s ; i++){
             int max = INT_MIN;
             int min = INT_MAX;
@@ -22,13 +22,11 @@ public:
                 }
             }
             if(abs(max-min) <= k){
-                stable_indexes.insert(i);
+                index = i;
+                break;
             }            
         }
-        int index = -1;
-        if( !stable_indexes.empty()){
-            index = *stable_indexes.begin();
-        }
+        
         return index;
     }
 };
