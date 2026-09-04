@@ -3,8 +3,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
@@ -107,8 +108,8 @@
 | [3838-weighted-word-mapping](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
@@ -123,8 +124,8 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1306-jump-game-iii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -133,8 +134,8 @@
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1306-jump-game-iii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -145,8 +146,8 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -155,8 +156,8 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0036-valid-sudoku](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
@@ -173,8 +174,8 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
@@ -204,8 +205,8 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
@@ -239,8 +240,8 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
@@ -274,8 +275,8 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
@@ -306,8 +307,8 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0396-rotate-function](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0396-rotate-function) |
@@ -327,8 +328,8 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0682-baseball-game](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
 | [1260-shift-2d-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1914-cyclically-rotating-a-grid/) | Medium |
@@ -340,25 +341,26 @@
 | [3838-weighted-word-mapping](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0796-rotate-string](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0796-rotate-string) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
@@ -381,8 +383,8 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -390,8 +392,8 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
@@ -409,13 +411,13 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
@@ -439,8 +441,8 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0136-single-number](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -448,8 +450,8 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
@@ -460,30 +462,30 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 ## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3161-block-placement-queries](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3161-block-placement-queries/) | Hard |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3161-block-placement-queries](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0239-sliding-window-maximum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
@@ -494,8 +496,8 @@
 | [3620-network-recovery-pathways](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0682-baseball-game](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0682-baseball-game/) | Easy |
@@ -503,8 +505,8 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -516,8 +518,8 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -525,20 +527,20 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -546,79 +548,79 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3620-network-recovery-pathways](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0739-daily-temperatures](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0225-implement-stack-using-queues](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 ## Radix Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0912-sort-an-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 ## Timsort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0881-boats-to-save-people](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0881-boats-to-save-people/) | Medium |
 ## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0374-guess-number-higher-or-lower/) | Easy |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0225-implement-stack-using-queues](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 ## Monotonic Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0239-sliding-window-maximum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 ## Range Minimum/Maximum Query
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0239-sliding-window-maximum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 ## Newton's Method
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0069-sqrtx](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0069-sqrtx/) | Easy |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
