@@ -18,6 +18,7 @@
 | [0036-valid-sudoku](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -212,6 +213,7 @@
 | [0015-3sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
@@ -625,4 +627,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
