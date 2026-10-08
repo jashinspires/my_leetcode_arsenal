@@ -19,6 +19,7 @@
 | [0048-rotate-image](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -165,6 +166,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [1260-shift-2d-grid](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
@@ -252,6 +254,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/jashinspires/my_leetcode_arsenal/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/jashinspires/my_leetcode_arsenal/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
